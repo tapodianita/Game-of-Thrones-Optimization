@@ -1,0 +1,16 @@
+C:\Users\tapod\source\repos\Game of Thrones\obj\Debug\net5.0\Game of Thrones.csproj.AssemblyReference.cache
+C:\Users\tapod\source\repos\Game of Thrones\obj\Debug\net5.0\Game of Thrones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tapod\source\repos\Game of Thrones\obj\Debug\net5.0\Game of Thrones.AssemblyInfoInputs.cache
+C:\Users\tapod\source\repos\Game of Thrones\obj\Debug\net5.0\Game of Thrones.AssemblyInfo.cs
+C:\Users\tapod\source\repos\Game of Thrones\obj\Debug\net5.0\Game of Thrones.csproj.CoreCompileInputs.cache
+C:\Users\tapod\source\repos\Game of Thrones\bin\Debug\net5.0\Game of Thrones.exe
+C:\Users\tapod\source\repos\Game of Thrones\bin\Debug\net5.0\Game of Thrones.deps.json
+C:\Users\tapod\source\repos\Game of Thrones\bin\Debug\net5.0\Game of Thrones.runtimeconfig.json
+C:\Users\tapod\source\repos\Game of Thrones\bin\Debug\net5.0\Game of Thrones.runtimeconfig.dev.json
+C:\Users\tapod\source\repos\Game of Thrones\bin\Debug\net5.0\Game of Thrones.dll
+C:\Users\tapod\source\repos\Game of Thrones\bin\Debug\net5.0\ref\Game of Thrones.dll
+C:\Users\tapod\source\repos\Game of Thrones\bin\Debug\net5.0\Game of Thrones.pdb
+C:\Users\tapod\source\repos\Game of Thrones\obj\Debug\net5.0\Game of Thrones.dll
+C:\Users\tapod\source\repos\Game of Thrones\obj\Debug\net5.0\ref\Game of Thrones.dll
+C:\Users\tapod\source\repos\Game of Thrones\obj\Debug\net5.0\Game of Thrones.pdb
+C:\Users\tapod\source\repos\Game of Thrones\obj\Debug\net5.0\Game of Thrones.genruntimeconfig.cache

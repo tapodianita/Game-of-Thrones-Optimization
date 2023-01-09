@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tapod\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tapod\\.nuget\\packages"
+    ]
+  }
+}
